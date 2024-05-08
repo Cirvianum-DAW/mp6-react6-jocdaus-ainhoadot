@@ -1,4 +1,4 @@
-# :game_die: Joc de Daus - Hello! 
+# :game_die: Joc de Daus 
 
 ## Objectiu
 
