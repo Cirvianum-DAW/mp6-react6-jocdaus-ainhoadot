@@ -1,10 +1,11 @@
 import React from 'react';
-import Dau from './Dau';
+import Dice from './Dice';
+import Lucky from './LuckyN';
 
 const App = () => {
   return (
     <>
-      <Dau valor = "1" />
+      <LuckyN numDaus={2} suma={7} />
     </>
   );
 };
